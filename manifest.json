@@ -1,0 +1,9 @@
+{
+  "name": "SIM WISUDA — STIS Al-Wafa Bogor",
+  "short_name": "SIM WISUDA",
+  "description": "Smart Integrated Management for Graduation Event STIS Al-Wafa Bogor",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#34000a",
+  "theme_color": "#540d1b"
+}
